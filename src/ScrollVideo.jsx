@@ -69,10 +69,14 @@ const ScrollVideo = () => {
             }}
           >
             <span className="tag">Viral Sensation</span>
-            <h1>Dubai<br />Chewy<br />Cookie</h1>
+            <h1>
+              <span>Dubai</span>
+              <span className="highlight-word">Chewy</span>
+              <span>Cookie</span>
+            </h1>
             <p className="subtitle">
               The dessert that broke the internet.<br />
-              Crispy kataifi meets pistachio cream.
+              Crispy kataifi meets velvety pistachio.
             </p>
             <div className="features">
               <div className="feature">Pistachio</div>
